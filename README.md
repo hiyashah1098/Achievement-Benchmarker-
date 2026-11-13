@@ -1,5 +1,7 @@
 # Achievement Benchmarker
 
+[**View the live Streamlit app**](https://achievement-benchmarker.streamlit.app/)
+
 My app helps a small indie studio decide whether to include Steam achievements in an upcoming game by comparing ratings, average playtime, and estimated ownership for games in the same genre with and without achievements.
 
 > A course project for **MIST 4600: Computer Programming in Business** at the University of Georgia's Terry College of Business (Fall 2026).
